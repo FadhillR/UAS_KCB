@@ -1,8 +1,8 @@
 # UAS_KCB
 # Klasifikasi Foto Anjing dan Kucing menggunakan Metode Deep Learning Convolutional Neural Network(CNN)
-Tentang Klasifikasi Foto Anjing dan Kucing Menggunakan Metode Depp Learning Convolutional Neural Network(CNN)<br><br>
+Tentang Klasifikasi Foto Anjing dan Kucing Menggunakan Metode Deep Learning Convolutional Neural Network(CNN)<br><br>
 <b>Penyusun :</b>
-1. Ahmad Fadhil Rizkullah (21081010098) <br>
+1. Ahmad Fadhil Rizqullah (21081010098) <br>
 2. Nabil Anshari (21081010144)<br>
  
 <b> Kelas : Kecerdasan Buatan E081</b><br>
@@ -17,5 +17,6 @@ Tentang Klasifikasi Foto Anjing dan Kucing Menggunakan Metode Depp Learning Conv
     - cv2 <br>
     - pandas <br>
     - Keras <br>
+    - tensorflow <br>
 
 
