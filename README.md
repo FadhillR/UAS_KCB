@@ -3,7 +3,7 @@
 Tentang Klasifikasi Foto Anjing dan Kucing Menggunakan Metode Deep Learning Convolutional Neural Network(CNN)<br><br>
 <b>Penyusun :</b>
 1. Ahmad Fadhil Rizqullah (21081010098) <br>
-2. Nabil Anshari (21081010144)<br>
+2. Nabil Anshari (21081010143)<br>
  
 <b> Kelas : Kecerdasan Buatan E081</b><br>
   
